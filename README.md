@@ -16,8 +16,8 @@ Implementação de  uma ferramenta de tradução interativa que converte palavra
 - **Openpyxl**: Manipulação de arquivos Excel.
 
 
-## Como Executar
-1. Certifique-se de ter Python instalado (versão 3.8 ou superior).
+## Como consigo executar tal projeto?
+1. Tenha o Python instalado (versão 3.8 ou superior).
 2. Instale tais pacotes:
    ```bash
    pip install pandas streamlit googletrans==4.0.0-rc1 openpyxl
